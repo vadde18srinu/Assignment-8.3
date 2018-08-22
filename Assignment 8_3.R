@@ -17,23 +17,22 @@ dbinom(17,31,0.447)
 b. Find the probability that X is at most 13
 
 
-dbinom(13,31,0.447)
+pbinom(13,31,0.447)
 
 
 c. Find the probability that X is bigger than 11.
 
-dbinom(11,31.0.447)
+pbinom(11,31,0.447)
 
 
 
 d. Find the probability that X is at least 15.
 
-dbinom(15,31.0.447)
-
+pbinom(15,31,0.447)
 
 
 e. Find the probability that X is between 16 and 19 inclusive
 
-dbinom(19-16,31,0.447)
+pbinom(19-16,31,0.447)
 
 
